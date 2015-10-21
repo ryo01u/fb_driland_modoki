@@ -1,7 +1,7 @@
 <?php
-define("C4SAAPPNAME", "presidentapp");
+define("C4SAAPPNAME", "mypresident2");
 define("C4SAMYSQL", "mysqlserver");
-define("C4SADB", "presidentapp");
-define("C4SADBUSER", "presidentapp");
-define("C4SADBPASSWD", "61190552c97");
+define("C4SADB", "mypresident2");
+define("C4SADBUSER", "mypresident2");
+define("C4SADBPASSWD", "20120211");
 ?>
